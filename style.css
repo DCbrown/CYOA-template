@@ -2,3 +2,24 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.intro {
+  text-align: center;
+}
+
+.bg-blue {
+  background-color: lightblue;
+}
+
+.start-btn {
+  background-color: lightgreen;
+}
+
+.message {
+  background-color: yellow;
+  color: red;
+}
+
+a:link { 
+  text-decoration: none; 
+}
